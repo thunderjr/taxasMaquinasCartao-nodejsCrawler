@@ -26,8 +26,7 @@ router.get("/getData", async (req, res) => {
     
     const qtdMaquininhas = (await page.$x(`/html/body/section/ul/li`)).length
     
-    //const result : Promise<Machine>[] = machineNameList.map(async (name, i) => 
-    const result = []
+    const result : Machine[] = []
 
     for (let i = 1; i <= qtdMaquininhas; i++) {
         if (i === 1) continue
@@ -67,11 +66,13 @@ router.get("/getData", async (req, res) => {
                     const [firstDivChild, secondDivChild] = _inputGroup.split('-')
                     const groupSelector = `body > section > div.ng-scope > div.panel.panel-default > div.row.panel-body > div > form > div > div:nth-child(${firstDivChild}) > div:nth-child(${secondDivChild})`
                     
-                    const name = (await page.$eval(`${groupSelector} label`, label => label.innerHTML)).split('\n')[0]
                     // @ts-ignore
-                    const fee = await page.$eval(`${groupSelector} input:not(.ng-hide)`, input => input.value)
+                    const feeInput = await page.$eval(`${groupSelector} input:not(.ng-hide)`, input => input.value)
+                    const name : string = (await page.$eval(`${groupSelector} label`, label => label.innerHTML)).split('\n')[0]
+                    const fee : number = <number>feeInput.replace(',','.').match(/[-]{0,1}[\d]*[.]{0,1}[\d]+/g, '').join('').trim()
+                    const type : string = feeInput.replace(/[-]{0,1}[\d]*[.]{0,1}[\d]+/g, '').trim()
 
-                    fees.push({ name, fee })
+                    fees.push({ name, fee, type })
                 } catch(e) {
                     console.log("error: ", e)
                 }
@@ -80,7 +81,7 @@ router.get("/getData", async (req, res) => {
             types.push({ name: type.text.trim(), fees })
         }
         
-        result.push({
+        result.push(<Machine>{
             name,
             link,
             imgLink,
