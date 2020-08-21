@@ -26,10 +26,11 @@ yarn dev
 ### 📌 To-do
 - [x] Aprender Typescript
 - [x] Estrutura de dados
-- [x] Pegar taxas das operações mais comuns ~~(ex.: Débito, Crédito a Vista, etc.)~~
 - [x] Dados da maquininha atual ~~(imagem, título e links úteis)~~
-- [ ] Pegar valores de todos os inputs em que a *label* contenha a palavra **"Taxa"**
-- [ ] Melhorar README ~~😅~~
+- [x] Pegar taxas das operações mais comuns ~~(ex.: Débito, Crédito a Vista, etc.)~~
+- [x] Pegar separadamente as taxas das diferentes modalidades de recebimento das maquininhas
+- [ ] Pegar valores de todos os inputs em que a *label* contenha a palavra **Taxa**
+- [ ] Melhorar README 😅
 
 
 ```
