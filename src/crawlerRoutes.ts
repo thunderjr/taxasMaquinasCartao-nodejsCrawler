@@ -10,9 +10,7 @@ router.get("/listNames", async (req, res) => {
 
     await page.goto("https://www.calculadoradetaxas.com.br")
 
-    const result = await page.$$eval("body > section > ul li a", items =>
-        items.map(x => x.textContent)
-    )
+    const result = await page.$$eval("body > section > ul li a", items => items.map(x => x.textContent))
 
     browser.close()
     res.json(result)
@@ -70,14 +68,13 @@ router.get("/getData", async (req, res) => {
                     const feeInput = await page.$eval(`${groupSelector} input:not(.ng-hide)`, input => input.value)
                     const name : string = (await page.$eval(`${groupSelector} label`, label => label.innerHTML)).split('\n')[0]
                     const fee : number = <number>feeInput.replace(',','.').match(/[-]{0,1}[\d]*[.]{0,1}[\d]+/g, '').join('').trim()
-                    const type : string = feeInput.replace(/[-]{0,1}[\d]*[.]{0,1}[\d]+/g, '').trim()
+                    const type : string = feeInput.replace(',','.').replace(/[-]{0,1}[\d]*[.]{0,1}[\d]+/g, '').trim()
 
                     fees.push({ name, fee, type })
                 } catch(e) {
                     console.log("error: ", e)
                 }
             }
-
             types.push({ name: type.text.trim(), fees })
         }
         
@@ -88,7 +85,7 @@ router.get("/getData", async (req, res) => {
             types,
         })
         // console.dir(result, { depth: null })
-        console.log(JSON.stringify(result, null, 4));
+        console.log(JSON.stringify(result, null, 3));
     }  
     
     browser.close()
