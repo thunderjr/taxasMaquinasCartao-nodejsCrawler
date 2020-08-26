@@ -13,11 +13,12 @@ yarn dev
 
 ##### /names
 ###### 📋 Retorna uma lista com os nomes das maquininhas disponíveis.
+```
 
+```
 ##### /data/all
-###### 📂 Retorna uma lista com os dados de todas as maquininhas.
-###### ⌛ Pode demorar cerca de 40-70 segundos (testado em 25/08/2020)
-##### *Verifique o modelo dos dados extraídos em [Machine.ts](/models/Machine.ts)*
+###### 📂 Retorna uma lista com os dados de todas as maquininhas. Leva de 40-70 segundos para extraír todo o conteúdo.
+###### *Verifique o modelo dos dados extraídos em [Machine.ts](/models/Machine.ts)*
 
 ```
 
@@ -39,7 +40,7 @@ yarn dev
 ```
 
 ### 📜 Exemplo de Resposta
-#### */data/all*
+##### */data/all*
 ```
 [
   {
