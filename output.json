@@ -1,0 +1,6370 @@
+[
+	{
+	  "name": "Minizinha Chip 2",
+	  "link": "https://www.calculadoradetaxas.com.br/",
+	  "imgLink": "https://www.calculadoradetaxas.com.br/img/pagseguro/minizinha-chip-2.png",
+	  "types": [
+		{
+		  "name": "Na Hora",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "0.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa Crédito a Vista ",
+			  "fee": "0.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "5.59",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "2.99",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "14 Dias",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "0.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa Crédito a Vista ",
+			  "fee": "0.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "4.59",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "2.99",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "30 Dias",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "0.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa Crédito a Vista ",
+			  "fee": "0.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "3.79",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "2.99",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "30 Dias - Tarja",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "0.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa Crédito a Vista ",
+			  "fee": "0.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "4.19",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "2.99",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "Link de Pagamento - 14 Dias",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "0.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa Crédito a Vista ",
+			  "fee": "0.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "4.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "2.99",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "Link de Pagamento - 30 Dias",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "0.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa Crédito a Vista ",
+			  "fee": "0.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "3.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "2.99",
+			  "type": "%"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "name": "Minizinha",
+	  "link": "https://www.calculadoradetaxas.com.br/calculadora/minizinha",
+	  "imgLink": "https://www.calculadoradetaxas.com.br/img/pagseguro/minizinha.png",
+	  "types": [
+		{
+		  "name": "Na Hora",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "0.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa Crédito a Vista ",
+			  "fee": "0.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "5.59",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "2.99",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "14 Dias",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "0.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa Crédito a Vista ",
+			  "fee": "0.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "4.59",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "2.99",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "30 Dias",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "0.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa Crédito a Vista ",
+			  "fee": "0.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "3.79",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "2.99",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "30 Dias - Tarja",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "0.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa Crédito a Vista ",
+			  "fee": "0.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "4.19",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "2.99",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "Link de Pagamento - 14 Dias",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "0.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa Crédito a Vista ",
+			  "fee": "0.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "4.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "2.99",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "Link de Pagamento - 30 Dias",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "0.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa Crédito a Vista ",
+			  "fee": "0.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "3.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "2.99",
+			  "type": "%"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "name": "SumUp Top",
+	  "link": "https://www.calculadoradetaxas.com.br/calculadora/sumup-top",
+	  "imgLink": "https://www.calculadoradetaxas.com.br/img/sumuptop.png",
+	  "types": [
+		{
+		  "name": "Econômico - por parcelas - 30 em 30 dias",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.90",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "3.10",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "3.10",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "0.80",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "Econômico - por parcelas - 30 em 30 dias - 3 primeiros meses",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "1.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "3.10",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "0.80",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "Acelerado - 1 dia útil",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.90",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "4.60",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "4.60",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "1.50",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "Acelerado - 1 dia útil - 3 primeiros meses",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "1.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "4.60",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "1.50",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "SumUp Zap - Acelerado - 1 dia útil",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "0.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "4.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "4.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "1.50",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "SumUp Zap - Econômico - por parcelas - 30 em 30 dias",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "0.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "3.10",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "3.10",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "0.80",
+			  "type": "%"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "name": "Mercado Point Mini",
+	  "link": "https://www.calculadoradetaxas.com.br/calculadora/mercado-point-mini",
+	  "imgLink": "https://www.calculadoradetaxas.com.br/img/mercadopointmini.png",
+	  "types": [
+		{
+		  "name": "Na Hora",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "4.74",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "5.31",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "14 dias",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "3.79",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "4.36",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "30 Dias",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "3.03",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "3.60",
+			  "type": "%"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "name": "SumUp On",
+	  "link": "https://www.calculadoradetaxas.com.br/calculadora/sumup-on",
+	  "imgLink": "https://www.calculadoradetaxas.com.br/img/sumup/sumupon.png",
+	  "types": [
+		{
+		  "name": "Econômico - por parcelas - 30 em 30 dias",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.90",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "3.10",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "3.10",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "0.80",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "Econômico - por parcelas - 30 em 30 dias - 3 primeiros meses",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "1.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "3.10",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "0.80",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "Acelerado - 1 dia útil",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.90",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "4.60",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "4.60",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "1.50",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "Acelerado - 1 dia útil - 3 primeiros meses",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "1.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "4.60",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "1.50",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "SumUp Zap - Acelerado - 1 dia útil",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "0.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "4.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "4.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "1.50",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "SumUp Zap - Econômico - por parcelas - 30 em 30 dias",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "0.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "3.10",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "3.10",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "0.80",
+			  "type": "%"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "name": "SumUp Total",
+	  "link": "https://www.calculadoradetaxas.com.br/calculadora/sumup-total",
+	  "imgLink": "https://www.calculadoradetaxas.com.br/img/sumuptotal.png",
+	  "types": [
+		{
+		  "name": "Econômico - por parcelas - 30 em 30 dias",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.90",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "3.10",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "3.10",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "0.80",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "Econômico - por parcelas - 30 em 30 dias - 3 primeiros meses",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "1.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "3.10",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "0.80",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "Acelerado - 1 dia útil",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.90",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "4.60",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "4.60",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "1.50",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "Acelerado - 1 dia útil - 3 primeiros meses",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "1.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "4.60",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "1.50",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "SumUp Zap - Acelerado - 1 dia útil",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "0.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "4.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "4.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "1.50",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "SumUp Zap - Econômico - por parcelas - 30 em 30 dias",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "0.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "3.10",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "3.10",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "0.80",
+			  "type": "%"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "name": "Moderninha X",
+	  "link": "https://www.calculadoradetaxas.com.br/calculadora/moderninha-x",
+	  "imgLink": "https://www.calculadoradetaxas.com.br/img/pagseguro/moderninha-x.png",
+	  "types": [
+		{
+		  "name": "Na Hora",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "0.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa Crédito a Vista ",
+			  "fee": "0.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "5.59",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "2.99",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "14 Dias",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "0.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa Crédito a Vista ",
+			  "fee": "0.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "4.59",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "2.99",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "30 Dias",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "0.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa Crédito a Vista ",
+			  "fee": "0.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "3.79",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "2.99",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "30 Dias - Tarja",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "0.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa Crédito a Vista ",
+			  "fee": "0.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "4.19",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "2.99",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "Link de Pagamento - 14 Dias",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "0.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa Crédito a Vista ",
+			  "fee": "0.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "4.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "2.99",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "Link de Pagamento - 30 Dias",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "0.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa Crédito a Vista ",
+			  "fee": "0.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "3.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "2.99",
+			  "type": "%"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "name": "Moderninha Plus",
+	  "link": "https://www.calculadoradetaxas.com.br/calculadora/moderninha-plus",
+	  "imgLink": "https://www.calculadoradetaxas.com.br/img/moderninha-plus.png",
+	  "types": [
+		{
+		  "name": "Na Hora",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "0.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa Crédito a Vista ",
+			  "fee": "0.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "5.59",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "2.99",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "14 Dias",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "0.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa Crédito a Vista ",
+			  "fee": "0.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "4.59",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "2.99",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "30 Dias",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "0.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa Crédito a Vista ",
+			  "fee": "0.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "3.79",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "2.99",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "30 Dias - Tarja",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "0.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa Crédito a Vista ",
+			  "fee": "0.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "4.19",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "2.99",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "Link de Pagamento - 14 Dias",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "0.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa Crédito a Vista ",
+			  "fee": "0.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "4.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "2.99",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "Link de Pagamento - 30 Dias",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "0.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa Crédito a Vista ",
+			  "fee": "0.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "3.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "2.99",
+			  "type": "%"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "name": "Moderninha Pro 2",
+	  "link": "https://www.calculadoradetaxas.com.br/calculadora/moderninha-pro",
+	  "imgLink": "https://www.calculadoradetaxas.com.br/img/pagseguro/moderninha-pro-2.png",
+	  "types": [
+		{
+		  "name": "Na Hora",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "0.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa Crédito a Vista ",
+			  "fee": "0.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "5.59",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "2.99",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "14 Dias",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "0.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa Crédito a Vista ",
+			  "fee": "0.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "4.59",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "2.99",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "30 Dias",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "0.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa Crédito a Vista ",
+			  "fee": "0.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "3.79",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "2.99",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "30 Dias - Tarja",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "0.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa Crédito a Vista ",
+			  "fee": "0.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "4.19",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "2.99",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "Link de Pagamento - 14 Dias",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "0.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa Crédito a Vista ",
+			  "fee": "0.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "4.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "2.99",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "Link de Pagamento - 30 Dias",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "0.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa Crédito a Vista ",
+			  "fee": "0.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "3.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "2.99",
+			  "type": "%"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "name": "Moderninha Smart",
+	  "link": "https://www.calculadoradetaxas.com.br/calculadora/moderninha-smart",
+	  "imgLink": "https://www.calculadoradetaxas.com.br/img/pagseguro/moderninha-smart.png",
+	  "types": [
+		{
+		  "name": "Na Hora",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "0.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa Crédito a Vista ",
+			  "fee": "0.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "5.59",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "2.99",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "14 Dias",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "0.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa Crédito a Vista ",
+			  "fee": "0.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "4.59",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "2.99",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "30 Dias",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "0.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa Crédito a Vista ",
+			  "fee": "0.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "3.79",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "2.99",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "30 Dias - Tarja",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "0.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa Crédito a Vista ",
+			  "fee": "0.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "4.19",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "2.99",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "Link de Pagamento - 14 Dias",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "0.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa Crédito a Vista ",
+			  "fee": "0.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "4.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "2.99",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "Link de Pagamento - 30 Dias",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "0.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa Crédito a Vista ",
+			  "fee": "0.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "3.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "2.99",
+			  "type": "%"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "name": "Mercado Point Mini Chip",
+	  "link": "https://www.calculadoradetaxas.com.br/calculadora/mercado-point-mini-chip",
+	  "imgLink": "https://www.calculadoradetaxas.com.br/img/mercadopago/point_mini_chip.png",
+	  "types": [
+		{
+		  "name": "Na Hora",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "4.74",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "5.31",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "14 dias",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "3.79",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "4.36",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "30 Dias",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "3.03",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "3.60",
+			  "type": "%"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "name": "Mercado Point Pro",
+	  "link": "https://www.calculadoradetaxas.com.br/calculadora/mercado-point-pro",
+	  "imgLink": "https://www.calculadoradetaxas.com.br/img/mercadopointpro.png",
+	  "types": [
+		{
+		  "name": "Na Hora",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "4.74",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "5.31",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "14 dias",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "3.79",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "4.36",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "30 Dias",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "3.03",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "3.60",
+			  "type": "%"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "name": "Mercado Point Smart",
+	  "link": "https://www.calculadoradetaxas.com.br/calculadora/mercado-point-smart",
+	  "imgLink": "https://www.calculadoradetaxas.com.br/img/mercadopago/point_smart.png",
+	  "types": [
+		{
+		  "name": "Na Hora",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "4.74",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "5.31",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "14 dias",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "3.79",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "4.36",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "30 Dias",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "3.03",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "3.60",
+			  "type": "%"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "name": "Stone Ton T1",
+	  "link": "https://www.calculadoradetaxas.com.br/calculadora/stone-ton-t1",
+	  "imgLink": "https://www.calculadoradetaxas.com.br/img/stone/ton_t1.png",
+	  "types": [
+		{
+		  "name": "1 dia - Bronze - Faturamento de R$0 a R$2k no mês anterior",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "4.98",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "4.98",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "1 dia - Prata - Faturamento de R$2k a R$5k no mês anterior",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "4.73",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "4.73",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "1 dia - Ouro - Faturamento de R$5k a R$10k no mês anterior",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.89",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "4.59",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "4.59",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "1 dia - Diamante - Faturamento de acima de R$10k no mês anterior",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.87",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "4.49",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "4.49",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "14 dias - Bronze - Faturamento de R$0 a R$2k no mês anterior",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "3.98",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "3.98",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "14 dias - Prata - Faturamento de R$2k a R$5k no mês anterior",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "3.78",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "3.78",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "14 dias - Ouro - Faturamento de R$5k a R$10k no mês anterior",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.89",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "3.78",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "3.78",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "14 dias - Diamante - Faturamento acima de R$10k no mês anterior",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.87",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "3.49",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "3.49",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "30 dias - Bronze - Faturamento de R$0 a R$2k no mês anterior",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "3.49",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "3.49",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "30 dias - Prata - Faturamento d  R$2k a R$5k no mês anterior",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "3.02",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "3.02",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "30 dias - Ouro - Faturamento de R$5k a R$10k no mês anterior",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.89",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "3.02",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "3.02",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "30 dias - Diamante - Faturamento acima de R$10k no mês anterior",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.87",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "2.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "2.99",
+			  "type": "%"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "name": "Stone Ton T2+",
+	  "link": "https://www.calculadoradetaxas.com.br/calculadora/stone-ton-t2",
+	  "imgLink": "https://www.calculadoradetaxas.com.br/img/stone/ton-t2+.png",
+	  "types": [
+		{
+		  "name": "1 dia - Bronze - Faturamento de R$0 a R$2k no mês anterior",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "4.98",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "4.98",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "1 dia - Prata - Faturamento de R$2k a R$5k no mês anterior",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "4.73",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "4.73",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "1 dia - Ouro - Faturamento de R$5k a R$10k no mês anterior",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.89",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "4.59",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "4.59",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "1 dia - Diamante - Faturamento de acima de R$10k no mês anterior",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.87",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "4.49",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "4.49",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "14 dias - Bronze - Faturamento de R$0 a R$2k no mês anterior",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "3.98",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "3.98",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "14 dias - Prata - Faturamento de R$2k a R$5k no mês anterior",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "3.78",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "3.78",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "14 dias - Ouro - Faturamento de R$5k a R$10k no mês anterior",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.89",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "3.78",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "3.78",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "14 dias - Diamante - Faturamento acima de R$10k no mês anterior",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.87",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "3.49",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "3.49",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "30 dias - Bronze - Faturamento de R$0 a R$2k no mês anterior",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "3.49",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "3.49",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "30 dias - Prata - Faturamento d  R$2k a R$5k no mês anterior",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "3.02",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "3.02",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "30 dias - Ouro - Faturamento de R$5k a R$10k no mês anterior",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.89",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "3.02",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "3.02",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "30 dias - Diamante - Faturamento acima de R$10k no mês anterior",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.87",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "2.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "2.99",
+			  "type": "%"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "name": "Stone Ton T2+ Pro",
+	  "link": "https://www.calculadoradetaxas.com.br/calculadora/stone-ton-t2-pro",
+	  "imgLink": "https://www.calculadoradetaxas.com.br/img/stone/ton-t2+.png",
+	  "types": [
+		{
+		  "name": "1 dia - Bronze - Faturamento de R$0 a R$2k no mês anterior",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "4.98",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "4.98",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "1 dia - Prata - Faturamento de R$2k a R$5k no mês anterior",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "4.73",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "4.73",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "1 dia - Ouro - Faturamento de R$5k a R$10k no mês anterior",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.89",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "4.59",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "4.59",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "1 dia - Diamante - Faturamento de acima de R$10k no mês anterior",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.87",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "4.49",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "4.49",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "14 dias - Bronze - Faturamento de R$0 a R$2k no mês anterior",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "3.98",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "3.98",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "14 dias - Prata - Faturamento de R$2k a R$5k no mês anterior",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "3.78",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "3.78",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "14 dias - Ouro - Faturamento de R$5k a R$10k no mês anterior",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.89",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "3.78",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "3.78",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "14 dias - Diamante - Faturamento acima de R$10k no mês anterior",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.87",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "3.49",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "3.49",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "30 dias - Bronze - Faturamento de R$0 a R$2k no mês anterior",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "3.49",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "3.49",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "30 dias - Prata - Faturamento d  R$2k a R$5k no mês anterior",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "3.02",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "3.02",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "30 dias - Ouro - Faturamento de R$5k a R$10k no mês anterior",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.89",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "3.02",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "3.02",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "30 dias - Diamante - Faturamento acima de R$10k no mês anterior",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.87",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "2.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "2.99",
+			  "type": "%"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "name": "Stone Ton T3",
+	  "link": "https://www.calculadoradetaxas.com.br/calculadora/stone-ton-t3",
+	  "imgLink": "https://www.calculadoradetaxas.com.br/img/stone/ton_t3.png",
+	  "types": [
+		{
+		  "name": "1 dia - Bronze - Faturamento de R$0 a R$2k no mês anterior",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "4.98",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "4.98",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "1 dia - Prata - Faturamento de R$2k a R$5k no mês anterior",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "4.73",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "4.73",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "1 dia - Ouro - Faturamento de R$5k a R$10k no mês anterior",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.89",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "4.59",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "4.59",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "1 dia - Diamante - Faturamento de acima de R$10k no mês anterior",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.87",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "4.49",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "4.49",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "14 dias - Bronze - Faturamento de R$0 a R$2k no mês anterior",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "3.98",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "3.98",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "14 dias - Prata - Faturamento de R$2k a R$5k no mês anterior",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "3.78",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "3.78",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "14 dias - Ouro - Faturamento de R$5k a R$10k no mês anterior",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.89",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "3.78",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "3.78",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "14 dias - Diamante - Faturamento acima de R$10k no mês anterior",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.87",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "3.49",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "3.49",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "30 dias - Bronze - Faturamento de R$0 a R$2k no mês anterior",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "3.49",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "3.49",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "30 dias - Prata - Faturamento d  R$2k a R$5k no mês anterior",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "3.02",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "3.02",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "30 dias - Ouro - Faturamento de R$5k a R$10k no mês anterior",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.89",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "3.02",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "3.02",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "30 dias - Diamante - Faturamento acima de R$10k no mês anterior",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.87",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "2.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "2.99",
+			  "type": "%"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "name": "Stone Ton T3 Pro",
+	  "link": "https://www.calculadoradetaxas.com.br/calculadora/stone-ton-t3-pro",
+	  "imgLink": "https://www.calculadoradetaxas.com.br/img/stone/ton_t3.png",
+	  "types": [
+		{
+		  "name": "1 dia - Bronze - Faturamento de R$0 a R$2k no mês anterior",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "4.98",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "4.98",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "1 dia - Prata - Faturamento de R$2k a R$5k no mês anterior",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "4.73",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "4.73",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "1 dia - Ouro - Faturamento de R$5k a R$10k no mês anterior",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.89",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "4.59",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "4.59",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "1 dia - Diamante - Faturamento de acima de R$10k no mês anterior",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.87",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "4.49",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "4.49",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "14 dias - Bronze - Faturamento de R$0 a R$2k no mês anterior",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "3.98",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "3.98",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "14 dias - Prata - Faturamento de R$2k a R$5k no mês anterior",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "3.78",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "3.78",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "14 dias - Ouro - Faturamento de R$5k a R$10k no mês anterior",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.89",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "3.78",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "3.78",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "14 dias - Diamante - Faturamento acima de R$10k no mês anterior",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.87",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "3.49",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "3.49",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "30 dias - Bronze - Faturamento de R$0 a R$2k no mês anterior",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "3.49",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "3.49",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "30 dias - Prata - Faturamento d  R$2k a R$5k no mês anterior",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "3.02",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "3.02",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "30 dias - Ouro - Faturamento de R$5k a R$10k no mês anterior",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.89",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "3.02",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "3.02",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "30 dias - Diamante - Faturamento acima de R$10k no mês anterior",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.87",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "2.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "2.99",
+			  "type": "%"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "name": "Starpay Ministar",
+	  "link": "https://www.calculadoradetaxas.com.br/calculadora/starpay-ministar",
+	  "imgLink": "https://www.calculadoradetaxas.com.br/img/starpay.png",
+	  "types": [
+		{
+		  "name": "Plano Veloz - Antecipação automática - 2 dias úteis",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "2.59",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito ",
+			  "fee": "3.29",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento de 2 a 6 parcelas ",
+			  "fee": "3.90",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento de 7 a 12 parcelas ",
+			  "fee": "4.90",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Antecipação ",
+			  "fee": "2.99",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "Plano Controle - Recebimento em parcelas com antecipação",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "2.59",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito ",
+			  "fee": "3.29",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento de 2 a 6 parcelas ",
+			  "fee": "3.90",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento de 7 a 12 parcelas ",
+			  "fee": "4.90",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Antecipação ",
+			  "fee": "3.99",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "Plano Controle - Recebimento em parcelas sem antecipação",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "2.59",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito ",
+			  "fee": "3.29",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento de 2 a 6 parcelas ",
+			  "fee": "3.90",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento de 7 a 12 parcelas ",
+			  "fee": "4.90",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Antecipação ",
+			  "fee": "0.00",
+			  "type": "%"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "name": "Starpay Superstar",
+	  "link": "https://www.calculadoradetaxas.com.br/calculadora/starpay-superstar",
+	  "imgLink": "https://www.calculadoradetaxas.com.br/img/starpay-superstar.png",
+	  "types": [
+		{
+		  "name": "Plano Veloz - Antecipação automática - 2 dias úteis",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "2.59",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito ",
+			  "fee": "3.29",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento de 2 a 6 parcelas ",
+			  "fee": "3.90",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento de 7 a 12 parcelas ",
+			  "fee": "4.90",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Antecipação ",
+			  "fee": "2.99",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "Plano Controle - Recebimento em parcelas com antecipação",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "2.59",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito ",
+			  "fee": "3.29",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento de 2 a 6 parcelas ",
+			  "fee": "3.90",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento de 7 a 12 parcelas ",
+			  "fee": "4.90",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Antecipação ",
+			  "fee": "3.99",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "Plano Controle - Recebimento em parcelas sem antecipação",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "2.59",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito ",
+			  "fee": "3.29",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento de 2 a 6 parcelas ",
+			  "fee": "3.90",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento de 7 a 12 parcelas ",
+			  "fee": "4.90",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Antecipação ",
+			  "fee": "0.00",
+			  "type": "%"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "name": "iFood Ultra",
+	  "link": "https://www.calculadoradetaxas.com.br/calculadora/ifood-ultra",
+	  "imgLink": "https://www.calculadoradetaxas.com.br/img/ifood/ifood-ultra.png",
+	  "types": [
+		{
+		  "name": "MaxiPay - 30 dias - Faturamento MENOR que 50 mil reais",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.89",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "2.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "2.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "1.49",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "FastPay - 2 dias - Faturamento MENOR que 50 mil reais",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.89",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "3.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "3.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "1.49",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "MaxiPay - 30 dias - Faturamento MAIOR que 50 mil reais",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.49",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "1.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "1.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "1.49",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "FastPay - 2 dias - Faturamento MAIOR que 50 mil reais",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.49",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "2.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "2.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "1.49",
+			  "type": "%"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "name": "iFood Pocket",
+	  "link": "https://www.calculadoradetaxas.com.br/calculadora/ifood-pocket",
+	  "imgLink": "https://www.calculadoradetaxas.com.br/img/ifood/ifood-pocket.png",
+	  "types": [
+		{
+		  "name": "MaxiPay - 30 dias - Faturamento MENOR que 50 mil reais",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.89",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "2.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "2.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "1.49",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "FastPay - 2 dias - Faturamento MENOR que 50 mil reais",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.89",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "3.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "3.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "1.49",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "MaxiPay - 30 dias - Faturamento MAIOR que 50 mil reais",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.49",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "1.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "1.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "1.49",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "FastPay - 2 dias - Faturamento MAIOR que 50 mil reais",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.49",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "2.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "2.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "1.49",
+			  "type": "%"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "name": "iFood Fast",
+	  "link": "https://www.calculadoradetaxas.com.br/calculadora/ifood-fast",
+	  "imgLink": "https://www.calculadoradetaxas.com.br/img/ifood/ifood-fast.png",
+	  "types": [
+		{
+		  "name": "MaxiPay - 30 dias - Faturamento MENOR que 50 mil reais",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.89",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "2.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "2.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "1.49",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "FastPay - 2 dias - Faturamento MENOR que 50 mil reais",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.89",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "3.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "3.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "1.49",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "MaxiPay - 30 dias - Faturamento MAIOR que 50 mil reais",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.49",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "1.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "1.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "1.49",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "FastPay - 2 dias - Faturamento MAIOR que 50 mil reais",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.49",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "2.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "2.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "1.49",
+			  "type": "%"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "name": "BEVITOP",
+	  "link": "https://www.calculadoradetaxas.com.br/calculadora/bevipag-bevitop",
+	  "imgLink": "https://www.calculadoradetaxas.com.br/img/bevipag/bevitop.png",
+	  "types": [
+		{
+		  "name": "Pessoa Jurídica - 1 Dia",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.79",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "4.98",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "3.79",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "1.99",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "Pessoa Jurídica - 30 Dias",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.79",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "2.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "3.79",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "1.99",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "Pessoa Física",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "2.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "6.08",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "3.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "2.29",
+			  "type": "%"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "name": "Safrapay Smart",
+	  "link": "https://www.calculadoradetaxas.com.br/calculadora/safrapay-smart",
+	  "imgLink": "https://www.calculadoradetaxas.com.br/img/safrapay/maquina-smart.png",
+	  "types": [
+		{
+		  "name": "Na Hora - Antecipado - Exclusivo p/ deposito na conta safra",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.98",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "2.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "5.60",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Antecipação ",
+			  "fee": "1.50",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "1 Dia - Antecipado",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.88",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "1.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "4.60",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Antecipação ",
+			  "fee": "1.50",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "30 Dias - Antecipado",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.88",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "1.89",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "2.98",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Antecipação ",
+			  "fee": "2.98",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "Sem antecipação",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.88",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "3.05",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "5.45",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Antecipação ",
+			  "fee": "0.00",
+			  "type": "%"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "name": "Safrapay Bluetooth",
+	  "link": "https://www.calculadoradetaxas.com.br/calculadora/safrapay-bluetooth",
+	  "imgLink": "https://www.calculadoradetaxas.com.br/img/safrapay/bluetooth.png",
+	  "types": [
+		{
+		  "name": "Na Hora - Antecipado - Exclusivo p/ deposito na conta safra",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.98",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "2.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "5.60",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Antecipação ",
+			  "fee": "1.50",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "1 Dia - Antecipado",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.88",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "1.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "4.60",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Antecipação ",
+			  "fee": "1.50",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "30 Dias - Antecipado",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.88",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "1.89",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "2.98",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Antecipação ",
+			  "fee": "2.98",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "Sem antecipação",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.88",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "3.05",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "5.45",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Antecipação ",
+			  "fee": "0.00",
+			  "type": "%"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "name": "Safrapay com Bobina 3G",
+	  "link": "https://www.calculadoradetaxas.com.br/calculadora/safrapay-com-bobina-3g",
+	  "imgLink": "https://www.calculadoradetaxas.com.br/img/safrapay/com-bobina.png",
+	  "types": [
+		{
+		  "name": "Na Hora - Antecipado - Exclusivo p/ deposito na conta safra",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.98",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "2.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "5.60",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Antecipação ",
+			  "fee": "1.50",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "1 Dia - Antecipado",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.88",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "1.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "4.60",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Antecipação ",
+			  "fee": "1.50",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "30 Dias - Antecipado",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.88",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "1.89",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "2.98",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Antecipação ",
+			  "fee": "2.98",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "Sem antecipação",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.88",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "3.05",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "5.45",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Antecipação ",
+			  "fee": "0.00",
+			  "type": "%"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "name": "Safrapay sem Bobina 3G",
+	  "link": "https://www.calculadoradetaxas.com.br/calculadora/safrapay-sem-bobina-3g",
+	  "imgLink": "https://www.calculadoradetaxas.com.br/img/safrapay/sem-bobina-3g.png",
+	  "types": [
+		{
+		  "name": "Na Hora - Antecipado - Exclusivo p/ deposito na conta safra",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.98",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "2.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "5.60",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Antecipação ",
+			  "fee": "1.50",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "1 Dia - Antecipado",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.88",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "1.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "4.60",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Antecipação ",
+			  "fee": "1.50",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "30 Dias - Antecipado",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.88",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "1.89",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "2.98",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Antecipação ",
+			  "fee": "2.98",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "Sem antecipação",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.88",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "3.05",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "5.45",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Antecipação ",
+			  "fee": "0.00",
+			  "type": "%"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "name": "Oruspay Gracinha",
+	  "link": "https://www.calculadoradetaxas.com.br/calculadora/oruspay-gracinha",
+	  "imgLink": "https://www.calculadoradetaxas.com.br/img/oruspay-gracinha.png",
+	  "types": [
+		{
+		  "name": "Antecipado - 2 dias",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "2.38",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa Crédito a Vista ",
+			  "fee": "4.60",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento de 2 a 6 vezes ",
+			  "fee": "1.50",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento de 7 a 12 vezes ",
+			  "fee": "1.50",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "Antecipado - 14 dias",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "2.92",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa Crédito a Vista ",
+			  "fee": "5.16",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento de 2 a 6 vezes ",
+			  "fee": "2.74",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento de 7 a 12 vezes ",
+			  "fee": "2.74",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "Antecipado - 30 dias",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "2.92",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa Crédito a Vista ",
+			  "fee": "3.59",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento de 2 a 6 vezes ",
+			  "fee": "2.74",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento de 7 a 12 vezes ",
+			  "fee": "2.74",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "Mês a mês - parcelado de 30 em 30 dias",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "2.92",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa Crédito a Vista ",
+			  "fee": "3.59",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento de 2 a 6 vezes ",
+			  "fee": "3.80",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento de 7 a 12 vezes ",
+			  "fee": "3.80",
+			  "type": "%"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "name": "Oruspay Pro",
+	  "link": "https://www.calculadoradetaxas.com.br/calculadora/oruspay-pro",
+	  "imgLink": "https://www.calculadoradetaxas.com.br/img/oruspay-pro.png",
+	  "types": [
+		{
+		  "name": "Antecipado - 2 dias",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "2.38",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa Crédito a Vista ",
+			  "fee": "4.60",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento de 2 a 6 vezes ",
+			  "fee": "1.50",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento de 7 a 12 vezes ",
+			  "fee": "1.50",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "Antecipado - 14 dias",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "2.92",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa Crédito a Vista ",
+			  "fee": "5.16",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento de 2 a 6 vezes ",
+			  "fee": "2.74",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento de 7 a 12 vezes ",
+			  "fee": "2.74",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "Antecipado - 30 dias",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "2.92",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa Crédito a Vista ",
+			  "fee": "3.59",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento de 2 a 6 vezes ",
+			  "fee": "2.74",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento de 7 a 12 vezes ",
+			  "fee": "2.74",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "Mês a mês - parcelado de 30 em 30 dias",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "2.92",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa Crédito a Vista ",
+			  "fee": "3.59",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento de 2 a 6 vezes ",
+			  "fee": "3.80",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento de 7 a 12 vezes ",
+			  "fee": "3.80",
+			  "type": "%"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "name": "Oruspay Standard",
+	  "link": "https://www.calculadoradetaxas.com.br/calculadora/oruspay-standard",
+	  "imgLink": "https://www.calculadoradetaxas.com.br/img/oruspay-standard.png",
+	  "types": [
+		{
+		  "name": "Antecipado - 2 dias",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "2.38",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa Crédito a Vista ",
+			  "fee": "4.60",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento de 2 a 6 vezes ",
+			  "fee": "1.50",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento de 7 a 12 vezes ",
+			  "fee": "1.50",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "Antecipado - 14 dias",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "2.92",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa Crédito a Vista ",
+			  "fee": "5.16",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento de 2 a 6 vezes ",
+			  "fee": "2.74",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento de 7 a 12 vezes ",
+			  "fee": "2.74",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "Antecipado - 30 dias",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "2.92",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa Crédito a Vista ",
+			  "fee": "3.59",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento de 2 a 6 vezes ",
+			  "fee": "2.74",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento de 7 a 12 vezes ",
+			  "fee": "2.74",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "Mês a mês - parcelado de 30 em 30 dias",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "2.92",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa Crédito a Vista ",
+			  "fee": "3.59",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento de 2 a 6 vezes ",
+			  "fee": "3.80",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento de 7 a 12 vezes ",
+			  "fee": "3.80",
+			  "type": "%"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "name": "Cielo Lio+",
+	  "link": "https://www.calculadoradetaxas.com.br/calculadora/cielo-lio-plus",
+	  "imgLink": "https://www.calculadoradetaxas.com.br/img/cielo_lio+.png",
+	  "types": [
+		{
+		  "name": "Antecipado - 2 dias úteis - 1º ano",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "4.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "5.59",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "2.99",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "Antecipado - 2 dias úteis",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "2.39",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "4.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "5.59",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "2.99",
+			  "type": "%"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "name": "Cielo Lio",
+	  "link": "https://www.calculadoradetaxas.com.br/calculadora/cielo-lio",
+	  "imgLink": "https://www.calculadoradetaxas.com.br/img/cielo_lio.png",
+	  "types": [
+		{
+		  "name": "Antecipado - 2 dias úteis - 1º ano",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "4.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "5.59",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "2.99",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "Antecipado - 2 dias úteis",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "2.39",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "4.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "5.59",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "2.99",
+			  "type": "%"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "name": "Cielo Flash",
+	  "link": "https://www.calculadoradetaxas.com.br/calculadora/cielo-3g-wifi",
+	  "imgLink": "https://www.calculadoradetaxas.com.br/img/cielo/maquina-3g-wifi.png",
+	  "types": [
+		{
+		  "name": "Antecipado - 2 dias úteis - 1º ano",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "4.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "5.59",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "2.99",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "Antecipado - 2 dias úteis",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "2.39",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "4.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "5.59",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "2.99",
+			  "type": "%"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "name": "Cielo Zip",
+	  "link": "https://www.calculadoradetaxas.com.br/calculadora/cielo-zip",
+	  "imgLink": "https://www.calculadoradetaxas.com.br/img/cielo/cielo-zip.png",
+	  "types": [
+		{
+		  "name": "Antecipado - 2 dias úteis - 1º ano",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "4.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "5.59",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "2.99",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "Antecipado - 2 dias úteis",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "2.39",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "4.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "5.59",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "2.99",
+			  "type": "%"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "name": "Cielo Mini Zip",
+	  "link": "https://www.calculadoradetaxas.com.br/calculadora/cielo-mini-zip",
+	  "imgLink": "https://www.calculadoradetaxas.com.br/img/cielo/mini-zip.png",
+	  "types": [
+		{
+		  "name": "Antecipado - 2 dias úteis - 1º ano",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "4.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "5.59",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "2.99",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "Antecipado - 2 dias úteis",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "2.39",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "4.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "5.59",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "2.99",
+			  "type": "%"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "name": "Cielo do seu jeito",
+	  "link": "https://www.calculadoradetaxas.com.br/calculadora/cielo",
+	  "imgLink": "https://www.calculadoradetaxas.com.br/img/cielo.png",
+	  "types": [
+		{
+		  "name": "Antecipado - 2 dias úteis - 1º ano",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "4.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "5.59",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "2.99",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "Antecipado - 2 dias úteis",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "2.39",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "4.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "5.59",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "2.99",
+			  "type": "%"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "name": "Cielo Livre",
+	  "link": "https://www.calculadoradetaxas.com.br/calculadora/cielo-livre",
+	  "imgLink": "https://www.calculadoradetaxas.com.br/img/cielo/maquina-3g-wifi.png",
+	  "types": [
+		{
+		  "name": "Antecipado - 2 dias úteis",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "4.49",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "4.49",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "2.99",
+			  "type": "%"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "name": "Maquininha da Cielo",
+	  "link": "https://www.calculadoradetaxas.com.br/calculadora/maquininha-da-cielo",
+	  "imgLink": "https://www.calculadoradetaxas.com.br/img/cielo/maquininha-cielo.png",
+	  "types": [
+		{
+		  "name": "Antecipado - 2 dias úteis - 1º ano",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "4.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "5.59",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "2.99",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "Antecipado - 2 dias úteis",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "2.39",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "4.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "5.59",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "2.99",
+			  "type": "%"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "name": "GetNet",
+	  "link": "https://www.calculadoradetaxas.com.br/calculadora/getnet",
+	  "imgLink": "https://www.calculadoradetaxas.com.br/img/getnet.png",
+	  "types": [
+		{
+		  "name": "Antecipado",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.95",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito ",
+			  "fee": "2.71",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento de 2 a 6 parcelas ",
+			  "fee": "3.44",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento de 7 a 12 parcelas ",
+			  "fee": "3.90",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Antecipacao ",
+			  "fee": "2.71",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "Em parcelas",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.95",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito ",
+			  "fee": "2.71",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento de 2 a 6 parcelas ",
+			  "fee": "3.44",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento de 7 a 12 parcelas ",
+			  "fee": "3.90",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Antecipacao ",
+			  "fee": "0.00",
+			  "type": "%"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "name": "Redecard",
+	  "link": "https://www.calculadoradetaxas.com.br/calculadora/redecard",
+	  "imgLink": "https://www.calculadoradetaxas.com.br/img/rede.png",
+	  "types": [
+		{
+		  "name": "Antecipado - Plano Padrão",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito ",
+			  "fee": "3.49",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento de 2 a 6 parcelas ",
+			  "fee": "3.49",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento de 7 a 12 parcelas ",
+			  "fee": "3.49",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Antecipação ",
+			  "fee": "1.99",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "Em parcelas - Plano Padrão",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito ",
+			  "fee": "3.49",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento de 2 a 6 parcelas ",
+			  "fee": "3.49",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento de 7 a 12 parcelas ",
+			  "fee": "3.49",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Antecipação ",
+			  "fee": "0.00",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "Antecipado - 2 dias - Aluguel Zero - Recebimento no Itaú",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito ",
+			  "fee": "3.49",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento de 2 a 6 parcelas ",
+			  "fee": "3.49",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento de 7 a 12 parcelas ",
+			  "fee": "3.49",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Antecipação ",
+			  "fee": "1.99",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "Antecipado - 2 dias - Aluguel Zero - Recebimento em outros bancos",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito ",
+			  "fee": "5.48",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento de 2 a 6 parcelas ",
+			  "fee": "3.49",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento de 7 a 12 parcelas ",
+			  "fee": "3.49",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Antecipação ",
+			  "fee": "1.99",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "Antecipado - 30 dias - Aluguel Zero",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito ",
+			  "fee": "3.49",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento de 2 a 6 parcelas ",
+			  "fee": "3.49",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento de 7 a 12 parcelas ",
+			  "fee": "3.49",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Antecipação ",
+			  "fee": "1.99",
+			  "type": "%"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "name": "Bin",
+	  "link": "https://www.calculadoradetaxas.com.br/calculadora/bin",
+	  "imgLink": "https://www.calculadoradetaxas.com.br/img/bin.png",
+	  "types": []
+	},
+	{
+	  "name": "Stone",
+	  "link": "https://www.calculadoradetaxas.com.br/calculadora/stone",
+	  "imgLink": "https://www.calculadoradetaxas.com.br/img/stone.png",
+	  "types": [
+		{
+		  "name": "Antecipado",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.77",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito ",
+			  "fee": "2.81",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento de 2 a 6 parcelas ",
+			  "fee": "3.12",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento de 7 a 12 parcelas ",
+			  "fee": "3.39",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Antecipacao ",
+			  "fee": "2.10",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "Em parcelas",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.77",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito ",
+			  "fee": "2.81",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento de 2 a 6 parcelas ",
+			  "fee": "3.12",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento de 7 a 12 parcelas ",
+			  "fee": "3.39",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Antecipacao ",
+			  "fee": "0.00",
+			  "type": "%"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "name": "Izettle Maquinão",
+	  "link": "https://www.calculadoradetaxas.com.br/calculadora/izettle-maquinao",
+	  "imgLink": "https://www.calculadoradetaxas.com.br/img/izettle.png",
+	  "types": [
+		{
+		  "name": "1 Dia",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "2.39",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito ",
+			  "fee": "4.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "1.99",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "1 Dia Promocional - jun/19 até dez/20 para novos clientes",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.97",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito ",
+			  "fee": "4.87",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "1.99",
+			  "type": "%"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "name": "SuperGet com Chip + Wi-Fi",
+	  "link": "https://www.calculadoradetaxas.com.br/calculadora/superget",
+	  "imgLink": "https://www.calculadoradetaxas.com.br/img/superget/superget_chip.png",
+	  "types": [
+		{
+		  "name": "Antecipado - 2 dias",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.95",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito ",
+			  "fee": "4.75",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "5.59",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Antecipacao ",
+			  "fee": "2.99",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "Antecipado - 2 dias - Pessoa Física e MEI",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "2.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito ",
+			  "fee": "2.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "5.59",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Antecipacao ",
+			  "fee": "2.99",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "Em parcelas",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.95",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito ",
+			  "fee": "3.09",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "6.40",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Antecipacao ",
+			  "fee": "0.00",
+			  "type": "%"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "name": "SuperGet com Chip",
+	  "link": "https://www.calculadoradetaxas.com.br/calculadora/superget-com-chip",
+	  "imgLink": "https://www.calculadoradetaxas.com.br/img/superget/superget_chip.png",
+	  "types": [
+		{
+		  "name": "Antecipado - 2 dias",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.95",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito ",
+			  "fee": "4.75",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "5.59",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Antecipacao ",
+			  "fee": "2.99",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "Antecipado - 2 dias - Pessoa Física e MEI",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "2.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito ",
+			  "fee": "2.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "5.59",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Antecipacao ",
+			  "fee": "2.99",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "Em parcelas",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.95",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito ",
+			  "fee": "3.09",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "6.40",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Antecipacao ",
+			  "fee": "0.00",
+			  "type": "%"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "name": "SuperGet com Bobina",
+	  "link": "https://www.calculadoradetaxas.com.br/calculadora/superget-com-bobina",
+	  "imgLink": "https://www.calculadoradetaxas.com.br/img/superget/supergetbobina.png",
+	  "types": [
+		{
+		  "name": "Antecipado - 2 dias",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.95",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito ",
+			  "fee": "4.75",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "5.59",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Antecipacao ",
+			  "fee": "2.99",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "Antecipado - 2 dias - Pessoa Física e MEI",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "2.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito ",
+			  "fee": "2.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "5.59",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Antecipacao ",
+			  "fee": "2.99",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "Em parcelas",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.95",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito ",
+			  "fee": "3.09",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "6.40",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Antecipacao ",
+			  "fee": "0.00",
+			  "type": "%"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "name": "SuperGet Mobile",
+	  "link": "https://www.calculadoradetaxas.com.br/calculadora/superget-mobile",
+	  "imgLink": "https://www.calculadoradetaxas.com.br/img/superget/superget_mobile.png",
+	  "types": [
+		{
+		  "name": "Antecipado - 2 dias",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.95",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito ",
+			  "fee": "4.75",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "5.59",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Antecipacao ",
+			  "fee": "2.99",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "Antecipado - 2 dias - Pessoa Física e MEI",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "2.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito ",
+			  "fee": "2.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "5.59",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Antecipacao ",
+			  "fee": "2.99",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "Em parcelas",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.95",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito ",
+			  "fee": "3.09",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "6.40",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Antecipacao ",
+			  "fee": "0.00",
+			  "type": "%"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "name": "PagPop",
+	  "link": "https://www.calculadoradetaxas.com.br/calculadora/pagpop",
+	  "imgLink": "https://www.calculadoradetaxas.com.br/img/pagpop.png",
+	  "types": [
+		{
+		  "name": "Pagamento toda sexta",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "2.98",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Transação ",
+			  "fee": "3.88",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "2.68",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "Pagamento em média de 30 dias",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "2.98",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Transação ",
+			  "fee": "5.48",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "3.88",
+			  "type": "%"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "name": "PagPop Laranjinha",
+	  "link": "https://www.calculadoradetaxas.com.br/calculadora/pagpop-laranjinha",
+	  "imgLink": "https://www.calculadoradetaxas.com.br/img/pagpop/laranjinha.png",
+	  "types": [
+		{
+		  "name": "Pagamento toda sexta",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "2.98",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Transação ",
+			  "fee": "3.88",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "2.68",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "Pagamento em média de 30 dias",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "2.98",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Transação ",
+			  "fee": "5.48",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "3.88",
+			  "type": "%"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "name": "Ligadinha",
+	  "link": "https://www.calculadoradetaxas.com.br/calculadora/directpay-ligadinha",
+	  "imgLink": "https://www.calculadoradetaxas.com.br/img/directpay_ligadinha.png",
+	  "types": [
+		{
+		  "name": "Em Parcelas",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "2.38",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito ",
+			  "fee": "4.09",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento de 2 a 6 parcelas ",
+			  "fee": "4.39",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento de 7 a 12 parcelas ",
+			  "fee": "5.29",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Antecipação ",
+			  "fee": "0.00",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "Antecipado - 2 dias úteis",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "2.38",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito ",
+			  "fee": "4.09",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento de 2 a 6 parcelas ",
+			  "fee": "4.39",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento de 7 a 12 parcelas ",
+			  "fee": "5.29",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Antecipação ",
+			  "fee": "2.79",
+			  "type": "%"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "name": "Directinha",
+	  "link": "https://www.calculadoradetaxas.com.br/calculadora/directpay-directinha",
+	  "imgLink": "https://www.calculadoradetaxas.com.br/img/directpay_directinha.png",
+	  "types": [
+		{
+		  "name": "Em Parcelas",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "2.38",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito ",
+			  "fee": "4.09",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento de 2 a 6 parcelas ",
+			  "fee": "4.39",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento de 7 a 12 parcelas ",
+			  "fee": "5.29",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Antecipação ",
+			  "fee": "0.00",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "Antecipado - 2 dias úteis",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "2.38",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito ",
+			  "fee": "4.09",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento de 2 a 6 parcelas ",
+			  "fee": "4.39",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento de 7 a 12 parcelas ",
+			  "fee": "5.29",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Antecipação ",
+			  "fee": "2.79",
+			  "type": "%"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "name": "Directpay Plus",
+	  "link": "https://www.calculadoradetaxas.com.br/calculadora/directpay-plus",
+	  "imgLink": "https://www.calculadoradetaxas.com.br/img/directpay_plus.png",
+	  "types": [
+		{
+		  "name": "Em Parcelas",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "2.38",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito ",
+			  "fee": "4.09",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento de 2 a 6 parcelas ",
+			  "fee": "4.39",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento de 7 a 12 parcelas ",
+			  "fee": "5.29",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Antecipação ",
+			  "fee": "0.00",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "Antecipado - 2 dias úteis",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "2.38",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito ",
+			  "fee": "4.09",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento de 2 a 6 parcelas ",
+			  "fee": "4.39",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento de 7 a 12 parcelas ",
+			  "fee": "5.29",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Antecipação ",
+			  "fee": "2.79",
+			  "type": "%"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "name": "Mini Pop Credicard",
+	  "link": "https://www.calculadoradetaxas.com.br/calculadora/mini-pop-credicard",
+	  "imgLink": "https://www.calculadoradetaxas.com.br/img/credicard/minipopcredicard.png",
+	  "types": [
+		{
+		  "name": "Antecipado - 2 dias úteis",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "3.98",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "4.98",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "2.99",
+			  "type": "%"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "name": "Pop Credicard",
+	  "link": "https://www.calculadoradetaxas.com.br/calculadora/pop-credicard",
+	  "imgLink": "https://www.calculadoradetaxas.com.br/img/credicard/popcredicard.png",
+	  "types": [
+		{
+		  "name": "Antecipado - 2 dias úteis",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "3.98",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "4.98",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "2.99",
+			  "type": "%"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "name": "Mega Pop Credicard",
+	  "link": "https://www.calculadoradetaxas.com.br/calculadora/mega-pop-credicard",
+	  "imgLink": "https://www.calculadoradetaxas.com.br/img/credicard/megapopcredicard.png",
+	  "types": [
+		{
+		  "name": "Antecipado - 2 dias úteis",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "3.98",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "4.98",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "2.99",
+			  "type": "%"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "name": "Mini Bin",
+	  "link": "https://www.calculadoradetaxas.com.br/calculadora/mini-bin",
+	  "imgLink": "https://www.calculadoradetaxas.com.br/img/bin/minibin.png",
+	  "types": [
+		{
+		  "name": "Antecipado - 2 dias úteis",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "4.90",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "5.50",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "1.99",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "Antecipado - 14 dias úteis",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "3.90",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "4.50",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "1.99",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "Antecipado - 30 dias úteis",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "3.10",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "3.70",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "1.99",
+			  "type": "%"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "name": "Mob Bin",
+	  "link": "https://www.calculadoradetaxas.com.br/calculadora/mob-bin",
+	  "imgLink": "https://www.calculadoradetaxas.com.br/img/bin/mobbin.png",
+	  "types": [
+		{
+		  "name": "Antecipado - 2 dias úteis",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "4.90",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "5.50",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "1.99",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "Antecipado - 14 dias úteis",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "3.90",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "4.50",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "1.99",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "Antecipado - 30 dias úteis",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "3.10",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "3.70",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "1.99",
+			  "type": "%"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "name": "Wirecard",
+	  "link": "https://www.calculadoradetaxas.com.br/calculadora/wirecard",
+	  "imgLink": "https://www.calculadoradetaxas.com.br/img/wirecard/wirecard.png",
+	  "types": [
+		{
+		  "name": "1 dia - antecipado",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "4.89",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "4.89",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "2.99",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "14 dias - antecipado",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "3.74",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "3.74",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "2.99",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "30 dias - antecipado",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "3.04",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "3.04",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "2.99",
+			  "type": "%"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "name": "Crefisinha",
+	  "link": "https://www.calculadoradetaxas.com.br/calculadora/crefisinha",
+	  "imgLink": "https://www.calculadoradetaxas.com.br/img/crefisa/crefisinha.png",
+	  "types": [
+		{
+		  "name": "2 dias - Antecipado",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.95",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "4.29",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "4.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "2.99",
+			  "type": "%"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "name": "Vero Up 3G Wi-Fi",
+	  "link": "https://www.calculadoradetaxas.com.br/calculadora/vero-up-3g-wifi",
+	  "imgLink": "https://www.calculadoradetaxas.com.br/img/vero/vero-up-3g.png",
+	  "types": [
+		{
+		  "name": "Antecipado - 1 dia útil",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "2.30",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "4.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "2.56",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "2.99",
+			  "type": "%"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "name": "Vero Up Bluetooth",
+	  "link": "https://www.calculadoradetaxas.com.br/calculadora/vero-up-bluetooth",
+	  "imgLink": "https://www.calculadoradetaxas.com.br/img/vero/vero-up-bluetooth.png",
+	  "types": [
+		{
+		  "name": "Antecipado - 1 dia útil",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "2.30",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "4.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "2.56",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "2.99",
+			  "type": "%"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "name": "Vero Max",
+	  "link": "https://www.calculadoradetaxas.com.br/calculadora/vero-max",
+	  "imgLink": "https://www.calculadoradetaxas.com.br/img/vero/vero-max.png",
+	  "types": [
+		{
+		  "name": "Antecipado - 1 dia útil",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "4.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "2.56",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "2.99",
+			  "type": "%"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "name": "InfiniteBlack",
+	  "link": "https://www.calculadoradetaxas.com.br/calculadora/infinitepay-infiniteblack",
+	  "imgLink": "https://www.calculadoradetaxas.com.br/img/infinitepay/infinite-black.png",
+	  "types": [
+		{
+		  "name": "1 dia útil - Master e Visa",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.49",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "2.97",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "2.97",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "1 dia útil - Elo",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "2.49",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "4.16",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "4.16",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "1 dia útil - Hipercard",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "0.00",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "3.37",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "3.37",
+			  "type": "%"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "name": "C6Pay",
+	  "link": "https://www.calculadoradetaxas.com.br/calculadora/c6pay",
+	  "imgLink": "https://www.calculadoradetaxas.com.br/img/c6pay/c6pay.png",
+	  "types": [
+		{
+		  "name": "Parcelado - 1ª parcela em 31 dias e as demais a cada 30 dias",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "3.89",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "3.89",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "0.00",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "Antecipado - 2 dias úteis",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.85",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "3.89",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "3.89",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "1.99",
+			  "type": "%"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "name": "PayGo Maquininha",
+	  "link": "https://www.calculadoradetaxas.com.br/calculadora/paygo-maquininha",
+	  "imgLink": "https://www.calculadoradetaxas.com.br/img/paygo/maquininha.png",
+	  "types": [
+		{
+		  "name": "Parcelado - 1ª parcela em 31 dias e as demais a cada 30 dias",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "3.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "3.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "0.00",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "Antecipado - 2 dias úteis",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "3.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "3.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "1.99",
+			  "type": "%"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "name": "PayGo Mini",
+	  "link": "https://www.calculadoradetaxas.com.br/calculadora/paygo-mini",
+	  "imgLink": "https://www.calculadoradetaxas.com.br/img/paygo/mini.png",
+	  "types": [
+		{
+		  "name": "Parcelado - 1ª parcela em 31 dias e as demais a cada 30 dias",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "3.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "3.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "0.00",
+			  "type": "%"
+			}
+		  ]
+		},
+		{
+		  "name": "Antecipado - 2 dias úteis",
+		  "fees": [
+			{
+			  "name": "Taxa Débito ",
+			  "fee": "1.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito a Vista ",
+			  "fee": "3.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Crédito Parcelado ",
+			  "fee": "3.99",
+			  "type": "%"
+			},
+			{
+			  "name": "Taxa de Parcelamento ",
+			  "fee": "1.99",
+			  "type": "%"
+			}
+		  ]
+		}
+	  ]
+	}
+  ]

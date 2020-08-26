@@ -18,7 +18,7 @@ interface Machine {
                     name: string
                     // input value normalized
                     fee: number
-                    // 'percent' || 'money'
+                    // % | R$
                     type: string
                 }
             ]

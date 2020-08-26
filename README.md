@@ -1,6 +1,6 @@
-# 🤖 Bot de Extração de Taxas de Máquinas de Cartão 💳
+## 🤖 Crawler de Taxas de Máquinas de Cartão 💳
 
-##### Este crawler utiliza informações do website 🌐 **https://www.calculadoradetaxas.com.br/**
+##### Este bot utiliza informações do website 🌐 **https://www.calculadoradetaxas.com.br/**
 
 ### 📥 Instalação
 Para utilizar, clone o projeto e na pasta raiz utilize os comandos:
@@ -11,13 +11,13 @@ yarn dev
 
 #### Após a instalação e inicialização, as seguintes rotas estarão disponíveis:
 
-##### /listNames
+##### /names
 ###### 📋 Retorna uma lista com os nomes das maquininhas disponíveis.
 
-##### /getData
-###### 📂 Retorna uma lista com os dados das maquininhas.
-
-*Verifique o modelo dos dados extraídos em [Machine.ts](/models/Machine.ts)*
+##### /data/all
+###### 📂 Retorna uma lista com os dados de todas as maquininhas.
+###### ⌛ Pode demorar cerca de 40-70 segundos (testado em 25/08/2020)
+##### *Verifique o modelo dos dados extraídos em [Machine.ts](/models/Machine.ts)*
 
 ```
 
@@ -29,7 +29,8 @@ yarn dev
 - [x] Dados da maquininha atual ~~(imagem, título e links úteis)~~
 - [x] Pegar taxas das operações mais comuns ~~(ex.: Débito, Crédito a Vista, etc.)~~
 - [x] Pegar separadamente as taxas das diferentes modalidades de recebimento das maquininhas
-- [ ] Pegar valores de todos os inputs em que a *label* contenha a palavra **Taxa**
+- [x] Pegar valores de todos os inputs em que a *label* contenha a palavra **Taxa**
+- [ ] Tipos de taxa aninhados (**Maquininha BIN** - *Ramo de atividade*)
 - [ ] Melhorar README 😅
 
 
@@ -38,6 +39,7 @@ yarn dev
 ```
 
 ### 📜 Exemplo de Resposta
+#### */data/all*
 ```
 [
   {
